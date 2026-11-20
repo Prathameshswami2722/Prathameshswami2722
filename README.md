@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=80&lines=Prathamesh+Swami;Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=90&lines=Prathamesh+Swami;AI+Engineer;AI+Evaluation+Specialist;Working+on+Terminal-Bench+Tasks" alt="Prathamesh Swami - AI Engineer and AI Evaluation Specialist" />
 
 # Prathamesh Swami
 
-### Full-Stack Developer | DevOps and Cloud Enthusiast
+### AI Engineer | AI Evaluation Specialist
 
-Building practical applications and exploring modern cloud infrastructure.
+Working on Terminal-Bench tasks, AI agent evaluation, reproducible environments, and reliable backend systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Prathameshswami2722-181717?style=for-the-badge&logo=github)](https://github.com/Prathameshswami2722)
 [![Profile Views](https://komarev.com/ghpvc/?username=Prathameshswami2722&style=for-the-badge&color=58A6FF)](https://github.com/Prathameshswami2722)
@@ -15,141 +15,104 @@ Building practical applications and exploring modern cloud infrastructure.
 
 ---
 
-## About Me
+## Professional Focus
 
-- I build full-stack web applications and practical software projects.
-- I am exploring AWS, cloud infrastructure, and DevOps workflows.
-- I work with Docker, Linux, Nginx, and deployment automation.
-- I am learning Kubernetes, Terraform, Jenkins, and monitoring tools.
-- I enjoy building backend applications with Python and Flask.
-- I also work with React, Node.js, Express, and JavaScript.
-- I am currently improving my backend architecture and cloud deployment skills.
-- I am open to collaborations, internships, and development opportunities.
+- AI engineering with a focus on evaluation, reliability, and measurable system behavior
+- AI evaluation specialist working on Terminal-Bench tasks
+- Evaluation of AI agents operating in terminal-based environments
+- Development of reproducible, containerized task environments
+- Backend systems and developer tooling for AI workflows
+- Docker and Kubernetes-based infrastructure
+- Backend development with Python, Go, and Rust
+- MERN stack application development
 
 ---
 
-## Featured Projects
+## AI Engineering and Evaluation
+
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-111827?style=flat-square)
+![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-2563EB?style=flat-square)
+![Terminal Bench](https://img.shields.io/badge/Terminal--Bench-0F766E?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
+![Task Validation](https://img.shields.io/badge/Task_Validation-374151?style=flat-square)
+![Reproducible Environments](https://img.shields.io/badge/Reproducible_Environments-334155?style=flat-square)
+
+My work focuses on evaluating AI agents through terminal-based tasks, clear success criteria, reliable execution environments, and reproducible validation workflows.
+
+---
+
+## Technical Expertise
+
+### Containers and Orchestration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash&theme=dark" alt="Docker, Kubernetes, Linux, and Bash" />
+</p>
+
+### Core Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,rust&theme=dark" alt="Python, Go, and Rust" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,mysql,nginx&theme=dark" alt="Backend development technologies" />
+</p>
+
+### Development and Infrastructure Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman&theme=dark" alt="Development and infrastructure tools" />
+</p>
+
+### MERN Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="MongoDB, Express, React, and Node.js" />
+</p>
+
+---
+
+## Selected Projects
 
 ### [SmartPort Maritime Logistics Cloud](https://github.com/Prathameshswami2722/Smart-port-)
 
-A cloud-based maritime logistics system for managing vessels, cargo, ports, operational tasks, reports, and role-based access.
+A containerized maritime logistics platform for managing vessels, cargo, ports, operational workflows, reporting, and role-based access.
 
-Key features:
+Key capabilities:
 
-- Role-based authentication and dashboards
+- Role-based authentication and operational dashboards
 - Vessel, cargo, port, and workflow management
-- Dockerized Flask and MySQL application
-- Nginx reverse proxy and Linux deployment
-- AWS EC2, VPC, IAM, S3, and CloudWatch architecture
-- Database backup and recovery automation
+- Flask and MySQL backend
+- Docker-based deployment
+- Nginx reverse proxy and Linux hosting
+- AWS infrastructure, monitoring, and backup workflows
 
 **Technologies:** Python, Flask, MySQL, Docker, Nginx, AWS, Linux
 
 ---
 
-### [Project SkyNetX](https://github.com/Prathameshswami2722/skynetx-devops-project)
+### [Lunar Space Project](https://github.com/Prathameshswami2722/Lunar-Space-Project)
 
-A DevOps-focused drone traffic management platform for handling drone registration, telemetry, flight approvals, airspace monitoring, and emergency events.
+An autonomous spacecraft docking AI concept focused on precision rendezvous, adaptive control, real-time perception, and mission autonomy for orbital logistics.
 
-Key features:
+Key capabilities:
 
-- Drone registration and fleet management
-- Telemetry and flight authorization workflows
-- Airspace and emergency monitoring
-- Health and Prometheus metrics endpoints
-- Infrastructure and deployment automation
-- Monitoring, logging, and secrets management
+- Autonomous AI docking workflow
+- Comparison of manual and AI-assisted docking
+- Real-time perception, planning, and control concepts
+- Interactive space-themed interface and visualizations
+- Responsive component-based application architecture
 
-**Technologies:** Python, Flask, Docker, Jenkins, Kubernetes, Terraform, Prometheus, Grafana, ELK Stack, Vault
-
----
-
-### [Cryptocurrency Trading Simulator](https://github.com/Prathameshswami2722/trading-simulator)
-
-A responsive cryptocurrency trading simulator with live price updates, order management, wallet simulation, and portfolio tracking.
-
-Key features:
-
-- BTC and ETH market selection
-- Buy and sell order management
-- Multi-currency wallet simulation
-- Real-time price updates using WebSockets
-- Trade history, filters, and pagination
-- Browser-based data persistence
-
-**Technologies:** React, Node.js, Express, Socket.IO, Tailwind CSS
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://trading-simulator-kappa.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prathameshswami2722/trading-simulator)
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Programming languages" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
-</p>
-
-### Backend and Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,mysql&theme=dark" alt="Backend technologies" />
-</p>
-
-### DevOps and Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,nginx,prometheus,grafana&theme=dark" alt="DevOps and cloud technologies" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" alt="Development tools" />
-</p>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathameshswami2722&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Prathamesh's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshswami2722&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prathameshswami2722&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## Currently Learning
-
-- AWS cloud architecture
-- Kubernetes orchestration
-- Infrastructure as Code with Terraform
-- CI/CD pipelines with Jenkins and GitHub Actions
-- Monitoring with Prometheus and Grafana
-- Backend and distributed systems architecture
+**Technologies:** Next.js, TypeScript, React, Tailwind CSS, Three.js, React Three Fiber
 
 ---
 
 ## Contact
 
-I am open to development collaborations, internships, open-source contributions, and professional opportunities.
+I am open to opportunities and collaborations in AI engineering, AI evaluation, agent systems, backend development, and infrastructure engineering.
 
 <p align="center">
   <a href="https://github.com/Prathameshswami2722">
@@ -161,8 +124,6 @@ I am open to development collaborations, internships, open-source contributions,
 
 <div align="center">
 
-### Thank You for Visiting
-
-*Learn. Build. Deploy. Improve.*
+### AI Engineering. Evaluation. Reliable Systems.
 
 </div>
