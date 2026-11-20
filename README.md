@@ -77,29 +77,6 @@ My work focuses on evaluating AI agents through terminal-based tasks, clear succ
 
 ## Selected Projects
 
-### [Fitness Workout App](https://github.com/Rajkoli145/Fitness-Workout-App)
-
-A Flutter-based fitness and workout application designed to provide a structured mobile training experience.
-
-**Technologies:** Flutter, Dart
-
----
-
-### [Campus Connect App - Pingu](https://github.com/Rajkoli145/pingu)
-
-A smart campus companion that brings academic information and student resources into one organized application.
-
-Key capabilities:
-
-- Assignment and academic update management
-- Campus notices and event information
-- Centralized study resources
-- Smart notifications for important updates
-
-**Technologies:** Mobile Application Development, Campus Information Management
-
----
-
 ### [Project SkyNetX](https://github.com/Prathameshswami2722/skynetx-devops-project)
 
 A DevOps-focused drone traffic management platform for drone registration, telemetry, flight approvals, airspace monitoring, and emergency response.
@@ -149,6 +126,29 @@ Key capabilities:
 - Responsive component-based application architecture
 
 **Technologies:** Next.js, TypeScript, React, Tailwind CSS, Three.js, React Three Fiber
+
+---
+
+### [Fitness Workout App](https://github.com/Rajkoli145/Fitness-Workout-App)
+
+A Flutter-based fitness and workout application designed to provide a structured mobile training experience.
+
+**Technologies:** Flutter, Dart
+
+---
+
+### [Campus Connect App - Pingu](https://github.com/Rajkoli145/pingu)
+
+A smart campus companion that brings academic information and student resources into one organized application.
+
+Key capabilities:
+
+- Assignment and academic update management
+- Campus notices and event information
+- Centralized study resources
+- Smart notifications for important updates
+
+**Technologies:** Mobile Application Development, Campus Information Management
 
 ---
 
