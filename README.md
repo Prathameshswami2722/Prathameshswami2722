@@ -77,20 +77,62 @@ My work focuses on evaluating AI agents through terminal-based tasks, clear succ
 
 ## Selected Projects
 
-### [SmartPort Maritime Logistics Cloud](https://github.com/Prathameshswami2722/Smart-port-)
+### [Fitness Workout App](https://github.com/Rajkoli145/Fitness-Workout-App)
 
-A containerized maritime logistics platform for managing vessels, cargo, ports, operational workflows, reporting, and role-based access.
+A Flutter-based fitness and workout application designed to provide a structured mobile training experience.
+
+**Technologies:** Flutter, Dart
+
+---
+
+### [Campus Connect App - Pingu](https://github.com/Rajkoli145/pingu)
+
+A smart campus companion that brings academic information and student resources into one organized application.
 
 Key capabilities:
 
-- Role-based authentication and operational dashboards
-- Vessel, cargo, port, and workflow management
-- Flask and MySQL backend
-- Docker-based deployment
-- Nginx reverse proxy and Linux hosting
-- AWS infrastructure, monitoring, and backup workflows
+- Assignment and academic update management
+- Campus notices and event information
+- Centralized study resources
+- Smart notifications for important updates
 
-**Technologies:** Python, Flask, MySQL, Docker, Nginx, AWS, Linux
+**Technologies:** Mobile Application Development, Campus Information Management
+
+---
+
+### [Project SkyNetX](https://github.com/Prathameshswami2722/skynetx-devops-project)
+
+A DevOps-focused drone traffic management platform for drone registration, telemetry, flight approvals, airspace monitoring, and emergency response.
+
+Key capabilities:
+
+- Drone registration and fleet management
+- Telemetry and flight authorization workflows
+- Airspace and emergency monitoring
+- Health and Prometheus metrics endpoints
+- Infrastructure automation and container orchestration
+- Monitoring, logging, and secrets management
+
+**Technologies:** Python, Flask, Docker, Jenkins, Kubernetes, Terraform, Prometheus, Grafana, ELK Stack, Vault
+
+---
+
+### [Cryptocurrency Trading Simulator](https://github.com/Prathameshswami2722/trading-simulator)
+
+A responsive cryptocurrency trading simulator with real-time price updates, order management, wallet simulation, and portfolio tracking.
+
+Key capabilities:
+
+- BTC and ETH market selection
+- Buy and sell order management
+- Multi-currency wallet simulation
+- Real-time WebSocket price updates
+- Trade history, filters, and pagination
+- Browser-based data persistence
+
+**Technologies:** React, Node.js, Express, Socket.IO, Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://trading-simulator-kappa.vercel.app/)
 
 ---
 
